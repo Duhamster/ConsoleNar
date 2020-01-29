@@ -2,13 +2,16 @@ package com.company;
 
 public class GameObjiect {
     String look;
+    String msg;
 boolean teleport = false;
     public GameObjiect(
     ) {
+        dmg = 0;
+        msg = "";
         look = "_";
         live = true;
     }
-
+    int dmg;
     int health;
     boolean live;
 

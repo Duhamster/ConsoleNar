@@ -2,25 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5fe9fb1-6c87-485b-ae79-81e4f6040ddc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grech.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/grech/com/company/Enemy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/grech/com/company/GameObjiect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/grech/com/company/Grass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/grech/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/grech/com/company/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/grech/com/company/Portal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/GameObjiect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Grass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Portal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/grech/com/company/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grech/com/company/Enemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/grech/com/company/GameObjiect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grech/com/company/GameObjiect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/grech/com/company/Grass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grech/com/company/Grass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/grech/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grech/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/grech/com/company/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grech/com/company/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/grech/com/company/Portal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grech/com/company/Portal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GameObjiect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/GameObjiect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Player.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
