@@ -2,7 +2,7 @@ package com.company;
 
 public class Portal extends GameObjiect {
     public Portal(){
-        look=" ({}) ";
+        look=" ❂ ";
         health=1;
     }
     @Override

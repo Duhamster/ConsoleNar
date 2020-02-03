@@ -6,6 +6,8 @@ public class GameObjiect {
 boolean teleport = false;
     public GameObjiect(
     ) {
+        armor=0;
+        health = 1;
         dmg = 0;
         msg = "";
         look = "_";
@@ -14,15 +16,21 @@ boolean teleport = false;
     int dmg;
     int health;
     boolean live;
+    int armor;
 
     void isDamaged(int dmg, GameObjiect agressor) {
-        health = health - dmg;
+       int dmg2 = dmg - armor;
+       if(dmg2<0){dmg2=0;}
+        health = health - dmg2;
         if (health <= 0) {
-            live = false;
-            look = "";
+            death();
         }
     }
+    void death(){
+        live = false;
+        look = "";
+    }
 
-    void vzaimodeist() {
+    void vzaimodeist(GameObjiect subject) {
     }
 }
